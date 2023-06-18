@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import gudhi as gd
 from open3d import io, visualization
-from persim import plot_diagrams
 
 def main():
     # Path
